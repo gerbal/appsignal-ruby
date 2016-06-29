@@ -13,6 +13,7 @@ GEMFILES = %w(
   sequel
   sinatra
   grape
+  webmachine
 )
 
 RUBY_VERSIONS = %w(
